@@ -1,5 +1,13 @@
 # 💫 About Me:
-Cybersecurity  & Digital Forensic <br>Looking For Collabrative on This field<br>Help With Job Seeking in this Field<br>Currently Learning Ethical Hacking <br>My Knowlwdge in Cybersecurity and digital forensic<br>cybersecurity enthusiasts 
+👨‍💻 Cybersecurity & Digital Forensics Enthusiast
+🔐 Current Focus: Ethical Hacking & SOC Analysis
+🧠 Knowledge in Cybersecurity & Digital Forensics
+📊 SOC Analysis & Threat Monitoring
+🤝 Open to Collaboration in Cybersecurity
+🚀 Career Goal: Cyber & DFIR Professional
+📚 Currently Learning Ethical Hacking
+💼 Open to Job & Internship Opportunities
+🌐 Cybersecurity Enthusiast Community
 
 
 ## 🌐 Socials:
